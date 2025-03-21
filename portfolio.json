@@ -2,6 +2,7 @@
   "name": "Your Name",
   "label": "Optional Label",
   "image_path": "img/default-image.png",
+  "resume_file": "Resume-Sanket Chavan-JAX.pdf",
   "contact": {
     "email": "FirstLast@Sample.com",
     "phone": "123-456-7890",

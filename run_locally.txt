@@ -10,5 +10,7 @@ python generate_portfolio.py
 python -m http.server
 
 
-After running these commands, you should be able to access your portfolio by opening a web browser and navigating to http://localhost:8000.
+After running these commands, 
+you should be able to access your portfolio 
+by opening a web browser and navigating to http://localhost:8000.
 
