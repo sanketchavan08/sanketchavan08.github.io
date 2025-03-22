@@ -1,44 +1,43 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
+  "name": "Sanket Chavan",
+  "label": "Data Analyst/Engineer",
   "image_path": "img/default-image.png",
   "resume_file": "Resume-Sanket Chavan-JAX.pdf",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "chavansanket193@gmail.com",
+    "phone": "716-578-9525",
+    "location": "Jacksonville, FL, USA"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "Impact-oriented Data Analyst/Engineer with 5 years of experience in banking and IT, specializing in SQL, Python, Data Warehousing, and Visualization. Proficient in Databricks, Tableau, and Power BI, with a proven track record of designing scalable data solutions and delivering actionable insights. Hands-on expertise in Cloud Computing, ETL processes, and Machine Learning, driving impactful data-driven decision-making and operational efficiency across diverse projects.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sanketchavan08/",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "Github",
+      "url": "https://github.com/sanketchavan08",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "Deutsche Bank",
+      "position": "Data Analyst/Engineer",
+      "url": "https://www.db.com",
+      "start_date": "11/20/2020",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "Project: Employee Trading Compliance Applications (SQL, Python, Power BI, Azure Synapse)",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Managing two major compliance applications as Client Service Manager (CSM-1), overseeing releases, capacity planning, and infrastructure updates to ensure seamless operations.",
+        "Acting as the primary contact for Compliance Officers and senior stakeholders, delivering BI solutions and generating ad-hoc compliance data reports.",
+        "Implemented data integrity controls on 131 feeds from 52 brokers, reducing regulatory risk from incomplete or missing feeds by 85%. Enabled 100% near real-time visibility for compliance officers, ensuring timely detection of data issues. Automated incident creation via ServiceNow, cutting investigation timelines from 4-5 days to 1-2 hours.",
+        "Deployed a shell script + Oracle-based solution, automating 70–80% of recurring compliance reports and dropping L2 weekly requests from 150+ to around 40. Standardized reporting formats and speed up delivery from days to minutes.",
+        "Defined 13 KPIs for tracking L2 team performance, cutting average incident resolution from 5 days to ~24 hours. Led and trained a 16-member global team, raising user satisfaction scores and scaling the solution to 18+ compliance applications.",
+        "Drove a 92% reduction in privileged access over 2 years by implementing Ansible-based automation. Achieved consistently low risk scores and full audit traceability, with every production action now fully logged and compliant.",
+        "Built the initial data model and pipeline in Azure Synapse Analytics to centralize compliance data for advanced analytics. Enhanced KPI reporting and facilitated future integrations with BI tools like Power BI"
       ]
     },
     {
