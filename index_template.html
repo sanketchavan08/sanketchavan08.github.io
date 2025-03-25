@@ -290,14 +290,13 @@
             </section>
           {% endif %}
 
-          {% if languages %}
+          {% if certifications %}
             <section>
-              <h2 class="section-heading">Languages</h2>
+              <h2 class="section-heading">Certifications</h2>
               <ul class="unstyled-list">
-                {% for lang in languages %}
+                {% for cert in certifications %}
                   <li>
-                    <h3>{{ lang.language }}</h3>
-                    <p class="section-label">{{ lang.fluency }}</p>
+                    <h3>{{ cert.certification }}</h3>
                   </li>
                 {% endfor %}
               </ul>

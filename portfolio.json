@@ -8,7 +8,7 @@
     "phone": "716-578-9525",
     "location": "Jacksonville, FL, USA"
   },
-  "summary": "Impact-oriented Data Analyst/Engineer with 5 years of experience in banking and IT, specializing in SQL, Python, Data Warehousing, and Visualization. Proficient in Databricks, Tableau, and Power BI, with a proven track record of designing scalable data solutions and delivering actionable insights. Hands-on expertise in Cloud Computing, ETL processes, and Machine Learning, driving impactful data-driven decision-making and operational efficiency across diverse projects.",
+  "summary": "Data Analyst/Engineer with 5 years of experience in banking and IT, specializing in SQL, Python, Data Warehousing, and Visualization. Proficient in Databricks, Tableau, and Power BI, with a proven track record of designing scalable data solutions and delivering actionable insights. Hands-on expertise in Cloud Computing, ETL processes, and Machine Learning, driving impactful data-driven decision-making and operational efficiency across diverse projects.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -27,7 +27,7 @@
       "company": "Deutsche Bank",
       "position": "Data Analyst/Engineer",
       "url": "https://www.db.com",
-      "start_date": "11/20/2020",
+      "start_date": "Nov 2020",
       "end_date": "Present",
       "summary": "Project: Employee Trading Compliance Applications (SQL, Python, Power BI, Azure Synapse)",
       "highlights": [
@@ -41,184 +41,163 @@
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "company": "People Tech Group",
+      "position": "Junior Data Scientist",
+      "url": "https://peopletech.com/home",
+      "start_date": "Sep 2019",
+      "end_date": "Nov 2020",
+      "summary": "Products : Elliptica Data Platform(Python, Kafka, SQL) & Candidate Screening Chatbot (Rasa, NLP, Python)",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Developed fault-tolerant data connectors for both relational and non-relational databases to capture real-time data changes using Python and Kafka.",
+    "Streamed database changes to Tableau dashboards through Redshift Data Warehouse, enabling real-time data visualization.",
+    "Conducted stress testing on the data pipeline to ensure scalability across multiple use cases.",
+    "Collaborated with cross-functional remote teams for system design and sprint planning.",
+    "Led backend development for an AI-powered Candidate Screening Chatbot using Rasa and Python, integrated with PostgreSQL for data management.",
+    "Built a functional chatbot prototype within two months capable of understanding user intent, extracting entities, and delivering context-aware responses."
+      ]
+    },
+	{
+      "company": "University at Buffalo",
+      "position": "Data Science Research Assistant",
+      "url": "https://www.buffalo.edu/",
+      "start_date": "Dec 2018",
+      "end_date": "Sep 2019",
+      "summary": "Research Project : Spatial-Temporal Analysis on GPS data (Python, Tableau, SSIS)",
+      "highlights": [
+        "Spatial-Temporal Analysis on a Data collected using survey which is funded by National Institutes of Health (NIH). ",
+		"Build ETL Pipeline to cleaned and ingest transformed data in MS-SQL using SSIS. ",
+		"Constructed Interactive Maps for Visualizing trajectories of users and clustered those GPS points to locate the most visited places in R",
+		"Analyzed and visualized social influence on travel behavior of a single user and single household in R",
+		"Built the model to predict the next Activity of a user on a specific day & time using Markov Model and Conditional Probabilistic Model.  ",
+		"Designed a program to find Co-location between users using python and Visualize that Social Network in Tableau Dashboard"
+      ]
+    },
+	{
+      "company": "Niagara Falls Bridge Commission",
+      "position": "Data Analyst Intern",
+      "url": "https://www.niagarafallsbridges.com/",
+      "start_date": "Sep 2017",
+      "end_date": "Dec 2017",
+      "summary": "Research Project : Traffic analysis of Lewiston-Queenston Bridge (Python, ML, Excel)",
+      "highlights": [
+        "Performed EDA on Bridge Crossing Data to discover Patterns and Trends in traffic ",
+		"Conducted the Survey to identify the characteristics and travellers' behavior on change in toll cost ",
+		"Achieved 13.11% traffic reduction during peak hours using the Multinomial Logistic Regression model"
       ]
     }
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "NYC Taxi Data Analytics with Azure Synapse (Python, SQL)",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
-        }
+        "Developed and optimized SQL scripts and Spark notebooks to process three years of NYC Yellow Taxi data (2021-2023) in Azure Synapse Analytics",
+		"Configured dedicated SQL pools and Spark pools to manage and analyze over 100 million records efficiently.",
+		"Ingested, transformed, and loaded over 1TB of data using Serverless SQL Pool, Spark Pool, and automated pipelines in Synapse.",
+		"Enabled real-time analytics by integrating Synapse Link with Cosmos DB and visualized data through Power BI.",
+		"Analyzed payment behaviors, identifying that 60% of trips were paid by credit card, with Queens showing a unique pattern of higher cash transactions.",
+		"Developed Power BI dashboards revealing that Manhattan accounted for 40% of overall taxi demand, with demand peaking on Fridays and lowest on Sundays across all boroughs."
       ]
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "Movie Recommender System (Python, Pytorch)",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
-        }
+        "Developed Item and User-Based Collaborative Models with Cosine, Pearson, and MSD similarity metrics, tuning and evaluating by measuring Hit Rates for recommended movies",
+		"Trained KNN and SVD++ models to predict user ratings for unseen movies in the test set",
+		"Achieved 75% accuracy in user preference prediction using a Restricted Boltzmann Machine",
+		"Enhanced recommendations with an Autoencoder model, maintaining an avg difference of 1-star rating between predicted and true ratings"
       ]
+      
+    },
+	{
+      "title": "Movie Revenue Prediction (Python)",
+      "highlights": [
+        "Eliminated Anomalies using EDA, created 39 new features, imputed missing values using Prediction from BO XGBoost model",
+		"Built Linear Regression, Bayesian Optimized Random Forest, XGBoost, LightGBM models to predict the Revenue",
+		"Achieved an RMSLE score of 0.96"
+      ]
+      
     }
   ],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
+      "organization": "VR Ulysses",
+      "position": "Data Scientist I",
+      "url": "https://www.vrulysses.com/",
+      "start_date": "Oct 2019",
+      "end_date": "Jan 2020",
+      "summary": "As the initial data lead at VR Ulysses, I focused on preparing and analyzing network data for their innovative virtual reality visualization platform, empowering security operators with enhanced insight and collaboration."
     }
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "University at Buffalo",
+      "location": "Buffalo, NY, USA",
+      "url": "https://buffalo.edu",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Master of Science in Industrial Engineering",
+        "Focused Data Science"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "GPA": "3.7/4",
+      "graduation_date": "Mar 2019"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
+      "institution": "North Maharashtra University",
+      "location": "Jalgaon, MH, India",
       "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "degrees": ["Bachelor in Mechanical Engineering"],
+      "GPA": "8.2/10",
+      "graduation_date": "May 2016"
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
+      "name": "SQL",
+      "proficiency": 95,
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "My Second Skill",
+      "name": "Python",
+      "proficiency": 90,
+      "proficiency_label": "Proficiency Level"
+    },
+	{
+      "name": "Tableau/Power BI",
+      "proficiency": 90,
+      "proficiency_label": "Proficiency Level"
+    },
+	{
+      "name": "Data Warehousing",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    },
+	{
+      "name": "Data Science and ML",
       "proficiency": 80,
       "proficiency_label": "Proficiency Level"
     }
   ],
-  "interests": [
+  
+  "certifications": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
+      "certification": "1. Microsoft Certified: Power BI Data Analyst Associate" 
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
+      "certification": "2. Certified Tableau Desktop Specialist"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "certification": "3. AWS Certified Machine Learning – Specialty – Amazon"
     }
   ],
   "references": [
     {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+      "name": "Dr.Qing He",
+      "relation": "Professor",
+      "reference": "I have had my pleasure of serving as Sanket's MS project advisor for Fall 2018, during which he analyzed large-scale smartphone GPS and extracted their social travel behavior. Above all, I was impressed with Sanket's ability to understand and solve the problem efficiently, his choice of visualization library to show his work was very good. He is also good at explaining his reports and finding clearly. I was also impressed with the way he designed the probabilistic model and tableau dashboard. Sanket would be a true asset for any positions requiring R, Python, and Tableau and comes with my heartfelt recommendation."
     },
     {
-      "name": "Person Two",
+      "name": "Prachi Sharma",
       "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "reference": "Sanket's creative thinking, expertise, positive can-do attitude makes him an absolute pleasure to work with. He continually delivers results, goes above and beyond in providing exceptional work. He is very flexible, enthusiastic and hold the great interests towards technical domain. His strengths in staying across issues, pro-actively offering solutions and being adept at all aspects of communications make him a valuable contributor to team"
     }
   ]
 }
