@@ -137,7 +137,7 @@
         "Master of Science in Industrial Engineering",
         "Focused Data Science"
       ],
-      "GPA": "3.7/4",
+      "gpa_major": "3.7/4",
       "graduation_date": "Mar 2019"
     },
     {
@@ -145,7 +145,7 @@
       "location": "Jalgaon, MH, India",
       "url": "https://sample.com",
       "degrees": ["Bachelor in Mechanical Engineering"],
-      "GPA": "8.2/10",
+      "gpa_major": "8.2/10",
       "graduation_date": "May 2016"
     }
   ],
@@ -179,13 +179,13 @@
   
   "certifications": [
     {
-      "certification": "1. Microsoft Certified: Power BI Data Analyst Associate" 
+      "certification": "- Microsoft Certified: Power BI Data Analyst Associate" 
     },
     {
-      "certification": "2. Certified Tableau Desktop Specialist"
+      "certification": "- Certified Tableau Desktop Specialist"
     },
     {
-      "certification": "3. AWS Certified Machine Learning – Specialty – Amazon"
+      "certification": "- AWS Certified Machine Learning – Specialty – Amazon"
     }
   ],
   "references": [
