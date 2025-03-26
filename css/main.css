@@ -476,24 +476,27 @@ blockquote {
 a[download].link-with-icon {
   background-color: #4CAF50;
   color: white !important;
-  padding: 8px 16px;
+  padding: 4px 8px;
   border-radius: 4px;
   font-weight: 500;
   transition: all 0.3s ease;
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  margin: 8px 0;
+  gap: 4px;
+  margin: 0;
+  font-size: 0.9rem;
 }
 
 a[download].link-with-icon:hover {
   background-color: #45a049;
   color: white !important;
   text-decoration: none;
-  transform: translateY(-2px);
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transform: translateY(-1px);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
 }
 
 a[download].link-with-icon svg {
   stroke: white;
+  width: 16px;
+  height: 16px;
 }
