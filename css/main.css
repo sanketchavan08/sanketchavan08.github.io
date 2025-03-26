@@ -471,3 +471,29 @@ blockquote {
     print-color-adjust: exact !important;
   }
 }
+
+/* Special style for download resume button */
+a[download].link-with-icon {
+  background-color: #4CAF50;
+  color: white !important;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 8px 0;
+}
+
+a[download].link-with-icon:hover {
+  background-color: #45a049;
+  color: white !important;
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+a[download].link-with-icon svg {
+  stroke: white;
+}
