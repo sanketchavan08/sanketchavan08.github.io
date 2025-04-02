@@ -8,7 +8,7 @@
     "phone": "+1 716-578-9525",
     "location": "Jacksonville, FL, USA (open to relocation)"
   },
-  "summary": "Data Analyst/Engineer with 5 years of experience in banking and IT, specializing in SQL, Python, Data Warehousing, and Visualization. Proficient in Tableau and Power BI, with demonstrated expertise in developing scalable, data-driven BI solutions and transforming complex data into actionable insights. Skilled in translating business requirements into analytical frameworks, enhancing business performance, and driving strategic decision-making with strong business acumen",
+  "summary": "Data Analyst/Engineer with 5 years of experience in banking and IT, specializing in SQL, Python, Data Warehousing, and BI tools including Tableau and Power BI. Designed and implemented a fully automated compliance monitoring solution, tracking 130+ broker feeds in real time, eliminating 100% of manual processes, and reducing compliance officer data-processing time by 80%. Skilled at translating business requirements into scalable, data-driven solutions that enhance performance and inform strategic decision-making",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -25,7 +25,7 @@
   "work_experience": [
     {
       "company": "Deutsche Bank",
-      "position": "Data Analyst/Engineer",
+      "position": "Senior Data Analyst",
       "url": "https://www.db.com",
       "start_date": "Nov 2020",
       "end_date": "Present",
@@ -163,6 +163,11 @@
 	{
       "name": "Tableau/Power BI",
       "proficiency": 90,
+      "proficiency_label": "Proficiency Level"
+    },
+	{
+      "name": "Snowflake",
+      "proficiency": 70,
       "proficiency_label": "Proficiency Level"
     },
 	{
