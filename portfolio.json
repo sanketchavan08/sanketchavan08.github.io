@@ -2,11 +2,11 @@
   "name": "Sanket Chavan",
   "label": "Senior Data Analyst",
   "image_path": "img/1742631126842.jpeg",
-  "resume_file": "Resume-Sanket Chavan-JAX.pdf",
+  "resume_file": "Resume-Sanket Chavan.pdf",
   "contact": {
     "email": "chavansanket193@gmail.com",
     "phone": "+1 716-578-9525",
-    "location": "Jacksonville, FL, USA (open to relocation)"
+    "location": "Austin, TX"
   },
   "summary": "Data Analyst/Engineer with 5 years of experience in banking and IT, specializing in SQL, Python, Data Warehousing, and BI tools including Tableau and Power BI. Designed and implemented a fully automated compliance monitoring solution, tracking 130+ broker feeds in real time, eliminating 100% of manual processes, and reducing compliance officer data-processing time by 80%. Skilled at translating business requirements into scalable, data-driven solutions that enhance performance and inform strategic decision-making",
   "base_url": "127.0.0.1:5500",
